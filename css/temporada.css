@@ -32,3 +32,16 @@
 .back-link:hover {
   text-decoration: underline;
 }
+
+@media (max-width: 768px) {
+  .season-info {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+    text-align: center;
+  }
+
+  .season-poster {
+    margin: 0 auto;
+    max-width: 350px;
+  }
+}

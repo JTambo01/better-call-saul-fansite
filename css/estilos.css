@@ -709,6 +709,10 @@ section {
     display: flex;
   }
 
+  .hero {
+    background-attachment: scroll;
+  }
+
   .hero-title {
     font-size: 2.5rem;
   }
