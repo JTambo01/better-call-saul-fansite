@@ -710,7 +710,7 @@ section {
   }
 
   .hero {
-    background-attachment: scroll;
+    background-attachment: fixed;
   }
 
   .hero-title {
